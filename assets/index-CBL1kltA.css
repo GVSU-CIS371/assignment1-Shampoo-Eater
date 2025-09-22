@@ -1,0 +1,1 @@
+body,html{margin:0;padding:0}header{display:flex;justify-content:space-between}main{display:grid;grid-template-columns:1fr 1fr 1fr 1fr;grid-template-rows:auto;gap:10px;padding:10px}.store-item img{border-color:#000;border-style:solid;border-width:1px;width:100%;aspect-ratio:1 / 1;object-fit:contain}span{padding:5px}
